@@ -42,7 +42,7 @@ public class Main {
                     System.out.println("TÜM PARANIZI ÇEKMENİZ BANKA İLE OLAN SÖZLEŞMENİZE AYKIRIDIR.");
                     
                 }else if(result<0){
-                    System.out.println("bankada bulunan paranızdan fazla miktar çekmek istiyorsunuz lütfen vene ile görüşünüz....");
+                    System.out.println("bankada bulunan paranızdan fazla miktar çekmek istiyorsunuz lütfen vezne ile görüşünüz....");
                 }else if(eksi>=1500){
                     System.out.println("Günlük para çekme limitiniz 1500 Türk lirasıdır.");
                     System.out.println("Sistemden çıkılıyor");
